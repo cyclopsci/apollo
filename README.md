@@ -1,3 +1,5 @@
+**This repository has been transferred to [https://github.com/thisendout/apollo](https://github.com/thisendout/apollo).  This fork will remain to preserve go imports but will not receive any updates**
+
 Apollo
 ======
 [![GoDoc](https://godoc.org/github.com/cyclopsci/apollo?status.svg)](https://godoc.org/github.com/cyclopsci/apollo)
